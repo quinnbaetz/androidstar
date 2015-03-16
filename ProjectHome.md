@@ -1,0 +1,1 @@
+A night sky viewer for the google android.  That finds Latitude and Longitude using gps and displays the night sky near you.
